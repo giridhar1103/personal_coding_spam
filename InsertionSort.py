@@ -1,4 +1,4 @@
-def SSort(lst):
+def InsertSort(lst):
     for i in range(1,len(lst)):
         j = i-1
         while j>=0 and lst[j+1]<lst[j]:
@@ -10,4 +10,4 @@ def SSort(lst):
     return lst
 
 
-print(SSort([3,4,5,8,1]))
+print(InsertSort([3,4,5,8,1]))
