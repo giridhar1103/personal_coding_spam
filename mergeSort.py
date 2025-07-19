@@ -1,1 +1,2 @@
-print("this is merge sort")
+for i in range(1,10):
+    print("hey")
