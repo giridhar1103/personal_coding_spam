@@ -4,7 +4,7 @@ def InsertSort(lst):
         while j>=0 and lst[j+1]<lst[j]:
             tempp = j+1
             lst[j+1] = lst[j]
-            lst[j] = tempp
+            lst[j] = temp
 
             j-=1
     return lst 
