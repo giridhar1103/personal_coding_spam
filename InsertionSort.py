@@ -7,7 +7,7 @@ def InsertSort(lst):
             lst[j] = temp
 
             j-=1
-    return lst
+    return lst 
 
 
 print(InsertSort([3,4,5,8,1]))
