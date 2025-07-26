@@ -2,7 +2,7 @@ def InsertSort(lst):
     for i in range(1,len(lst)):
         j = i-1
         while j>=0 and lst[j+1]<lst[j]:
-            tempp = j+1
+            temp = j+1
             lst[j+1] = lst[j]
             lst[j] = temp
 
