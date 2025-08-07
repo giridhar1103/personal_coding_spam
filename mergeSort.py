@@ -1,2 +1,2 @@
 def mergeSort():
-    try and 
+    mrore i beloeve
