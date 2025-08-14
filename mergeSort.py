@@ -4,4 +4,4 @@ def mergeSort(arr):
     k = 0
 
     for i in arr:
-        
+        print("Still need to work on merge sort")
